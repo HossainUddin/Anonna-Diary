@@ -1,0 +1,32 @@
+body{
+  overflow-x: hidden;
+}
+
+a{
+  color: #62cff4;
+}
+
+a:hover{
+  color: white;
+}
+
+.navbar-brand img{
+  width: 60px;
+}
+
+.nav-bg-color{
+  background-image: linear-gradient(to right, #62cff4, #2c67f2)
+}
+
+.card img{
+  height: 350px;
+}
+.foot-bg-color{
+  background-image: linear-gradient(to right, #707070, #454545)
+}
+footer img{
+  width: 174px;
+}
+footer .social ul li a i:hover{
+  color: #62cff4;
+}
